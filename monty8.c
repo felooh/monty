@@ -1,4 +1,4 @@
-#include "monty,h"
+#include "monty.h"
 
 void monty_mul(stack_t **stack, unsigned int line_number);
 

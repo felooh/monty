@@ -1,4 +1,7 @@
+#define _POSIX_C_SOURCE 200809L
 #include "monty.h"
+#define __USE_GNU
+#include <stdio.h>
 #include <string.h>
 
 void free_tokens(void);
